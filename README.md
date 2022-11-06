@@ -7,7 +7,7 @@ An app to create a shopping list and store the items on your device via local st
 <li> Online <a href="https://ay-da.github.io/Shopping-list/"> Shopping list </a> App </li>
 <h1>Screenshots </h1>
 
-<img src="https://www.i.ibb.co/RPyYcbW/shopping-list.jpg" >
+<img src="https://i.ibb.co/RPyYcbW/shopping-list.jpg" >
 
 <h1> Tested On :</h1>
 
